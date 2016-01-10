@@ -1,0 +1,15 @@
+ 1.- Instalar VirtualBox 5.0.x (https://www.virtualbox.org/)
+ 2.- Instalar Vagrant 1.8.x (https://www.vagrantup.com/)
+ 3.- Descargar https://github.com/chicochica10/utad-spark-ml/blob/master/utad-spark-ml-setup.zip?raw=true
+ 4.- Crear directorio utad-spark-ml
+ 5.- Descomprimir en él utad-spark-ml-setup.zip
+ 6.- Copiar el fichero Vagrantfile al directorio utad-spark-ml
+ 7.- Teclear: vagrant up --provider=virtualbox
+ 8.- Esperar a que se descargue de https://atlas.hashicorp.com y arranque  
+     la máquina virtual Vagrant
+ 9.- Para detener la máquina virtual teclear: vagrant halt
+10.- Para lanzar el notebook http://localhost:8001/ o http://127.0.0.1:8001
+11.- Ejecutar el primer notebook:
+      11.1.- En la página web de Jupyter, carga el fichero "lab0_student.ipynb"
+      11.2.- Selecciona el fichero y ejecuta cada celda como se indica en el 
+             notebook.

@@ -1,0 +1,19 @@
+Día 1
+Teoría:
+  01-utad-spark-ml-intro
+Ejercicios
+  Prueba de la Máquina virtual
+  Repaso de Mates y Python
+
+Día 2
+Teoría
+  02-utad-spark-ml-the-data
+Ejercicios
+  Análisis de texto y resolución de entidades
+  
+
+Día 3
+Teoría  
+  03-utad-spark-ml-ea-distributions-mlib-intro
+Ejercicios  
+  Un motor de recomendación con Apache Spark

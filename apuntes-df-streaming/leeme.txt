@@ -1,0 +1,12 @@
+contenido
+
+* este fichero
+* apuntes de spark y df
+* corregido el tamaño de fuentes en apuntes de spark streaming
+* guiones de df y ss
+* ejemplos-streaming -> codigo fuente visto en clase de streaming
+* datasets -> ficheros para cargar en el guión de dataframes
+* libro de ejercicios de spark
+* libro de soluciones de ejercicios de spark 
+* zip con datasets para los ejercicios de spark
+* ejercicio final corruptlandia

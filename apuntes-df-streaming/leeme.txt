@@ -10,3 +10,9 @@ contenido
 * libro de soluciones de ejercicios de spark 
 * zip con datasets para los ejercicios de spark
 * ejercicio final corruptlandia
+
+correo para consultas:
+
+angel rey
+
+chicohica10@gmail.com

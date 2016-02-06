@@ -1,5 +1,6 @@
 contenido
 
+* Información imporante para la pŕóxima clase de ml
 * este fichero
 * apuntes de spark y df
 * corregido el tamaño de fuentes en apuntes de spark streaming

@@ -1,0 +1,17 @@
+Hola chicos,
+el primero que lea esto que lo publique en el blackboard de la utad y/o
+se lo comunique a los compañeros ya que yo no aún no tengo cuenta 
+(me la crearán esta semana) para realizar los ejercicios de machine learning
+vamos a necesitar tener instalado el siguiente software en los pc's
+
+* VirtualBox 5.0.x (https://www.virtualbox.org/)
+* Vagrant 1.8.x (https://www.vagrantup.com/)
+
+Es posible que tengamos problemas para conseguir que los instalen (???) por 
+lo que me acaban de comentar, asi que me  gustaría estar preparado para esa 
+contingencia por lo que os recomendaría que para la próxima clase os traigas 
+vuestros portátiles con estos dos programas instalados...
+
+os mantendré informados 
+
+saludos

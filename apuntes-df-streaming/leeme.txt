@@ -1,6 +1,6 @@
 contenido
 
-* Información imporante para la pŕóxima clase de ml
+* Información importante para la próxima clase de ml
 * este fichero
 * apuntes de spark y df
 * corregido el tamaño de fuentes en apuntes de spark streaming
@@ -17,3 +17,13 @@ correo para consultas:
 angel rey
 
 chicohica10@gmail.com
+
+
+Tutoriales Python para la parte ml:
+
+vamos a trabajar con la version 2.7.x
+
+* http://codehero.co/series/python-desde-cero.html
+* http://docs.python.org.ar/tutorial/2/contenido.html 
+
+

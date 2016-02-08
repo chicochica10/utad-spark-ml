@@ -17,3 +17,10 @@ Teoría
   03-utad-spark-ml-ea-distributions-mlib-intro
 Ejercicios  
   Un motor de recomendación con Apache Spark
+
+Día 4
+Teoría
+  04-utad-spark-ml-linear-regresion
+  05-utad-spark-ml-gradient-descent
+Ejercicios
+  Predicción del año de una canción dadas sus características sonoras

@@ -13,3 +13,12 @@
       11.1.- En la página web de Jupyter, carga el fichero "lab0_student.ipynb"
       11.2.- Selecciona el fichero y ejecuta cada celda como se indica en el 
              notebook.
+
+videos de youtube donde Se muestra la instalación para windows:
+(Las fórmulas matemáticas no se visualizaban en chrome pero si en IE,
+En linux funciona bien tanto para chrome como para firefox)
+
+1.- https://www.youtube.com/watch?v=Y2gyIjpRtMk
+2.- https://www.youtube.com/watch?v=5Rvh-CR0FRw
+3.- https://www.youtube.com/watch?v=-CN1n4FpyyA
+ 

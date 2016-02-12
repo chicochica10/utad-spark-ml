@@ -10,7 +10,7 @@
  9.- Para detener la máquina virtual teclear: vagrant halt
 10.- Para lanzar el notebook http://localhost:8001/ o http://127.0.0.1:8001
 11.- Ejecutar el primer notebook:
-      11.1.- En la página web de Jupyter, carga el fichero "lab0_student.ipynb"
+      11.1.- En la página web de Jupyter, carga el fichero "utad-spark-ml-lab00.ipynb"
       11.2.- Selecciona el fichero y ejecuta cada celda como se indica en el 
              notebook.
 

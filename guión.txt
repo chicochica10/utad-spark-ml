@@ -27,7 +27,7 @@ Ejercicios
 
 Día 5 - sábado, 21 de mayo de 2016 5 50 9:00 - 14:00 Recuperación Recuperación Machine Learning con Spark Ángel Rey
 Teoría
-  06-utad-spark-ml-pca - utad-spark-ml-logistic-regresion
+  06-utad-spark-ml-pca  o utad-spark-ml-logistic-regresion
 Ejercicios
   predicción de clicks o pcas
 

@@ -1,26 +1,33 @@
-Día 1
+Día 1 - viernes, 12 de febrero de 2016 5 27 16:00 - 21:00 Tecnologías Offline Machine Learning con Spark Ángel Rey
 Teoría:
   01-utad-spark-ml-intro
 Ejercicios
   Prueba de la Máquina virtual
   Repaso de Mates y Python
 
-Día 2
+Día 2 - sábado, 13 de febrero de 2016 5 28 9:00 - 14:00 Tecnologías Offline Machine Learning con Spark Ángel Rey
 Teoría
   02-utad-spark-ml-the-data
 Ejercicios
   Análisis de texto y resolución de entidades
   
 
-Día 3
+Día 3 - viernes, 19 de febrero de 2016 5 29 16:00 - 21:00 Tecnologías Offline Machine Learning con Spark Ángel Rey
 Teoría  
   03-utad-spark-ml-ea-distributions-mlib-intro
 Ejercicios  
   Un motor de recomendación con Apache Spark
 
-Día 4
+Día 4 - viernes, 20 de mayo de 2016 5 49 16:00 - 21:00 Recuperación Recuperación Machine Learning con Spark Ángel Rey
 Teoría
   04-utad-spark-ml-linear-regresion
   05-utad-spark-ml-gradient-descent
 Ejercicios
   Predicción del año de una canción dadas sus características sonoras
+
+Día 5 - sábado, 21 de mayo de 2016 5 50 9:00 - 14:00 Recuperación Recuperación Machine Learning con Spark Ángel Rey
+Teoría
+  06-utad-spark-ml-pca - utad-spark-ml-logistic-regresion
+Ejercicios
+  predicción de clicks o pcas
+

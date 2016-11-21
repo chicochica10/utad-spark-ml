@@ -4,7 +4,7 @@
  4.- Crear directorio utad-spark-ml
  5.- Descomprimir en él utad-spark-ml-setup.zip
  6.- Copiar el fichero Vagrantfile al directorio utad-spark-ml
- 7.- Teclear: vagrant up --provider=virtualbox
+ 7.- En el directorio utad-spark-ml desde la linea de comando teclear: vagrant up --provider=virtualbox
  8.- Esperar a que se descargue de https://atlas.hashicorp.com y arranque  
      la máquina virtual Vagrant
  9.- Para detener la máquina virtual teclear: vagrant halt

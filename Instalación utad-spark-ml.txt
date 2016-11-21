@@ -1,4 +1,4 @@
- 1.- Instalar VirtualBox 5.0.x (https://www.virtualbox.org/)
+ 1.- Instalar VirtualBox 5.x.x (https://www.virtualbox.org/)
  2.- Instalar Vagrant 1.8.x (https://www.vagrantup.com/)
  3.- Descargar https://github.com/chicochica10/utad-spark-ml/blob/master/utad-spark-ml-setup.zip?raw=true
  4.- Crear directorio utad-spark-ml
